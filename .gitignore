@@ -1,11 +1,4 @@
 
-# O, si quieres ignorar el contenido de carpetas específicas de ROMs:
-Roms/DS/*
-Roms/GameCube/*
-Roms/GBA/*
-# Añade aquí las carpetas de ROMs de otras consolas que tengas
-
-# También puedes ignorar archivos de ROM específicos por extensión:
 *.nds
 *.iso
 *.gba
@@ -13,4 +6,3 @@ Roms/GBA/*
 *.gbc
 *.dsv
 
-# Añade aquí otras extensiones de archivos de ROM que utilices
